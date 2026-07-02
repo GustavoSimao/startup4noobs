@@ -6,7 +6,7 @@ O Lean Canvas é um quadro de uma única página dividido em blocos estratégico
 
 ---
 
-## 🗺️ O Layout do Lean Canvas
+## O Layout do Lean Canvas
 
 Para entender a dinâmica do quadro, veja como os blocos tradicionais são distribuídos visualmente. A numeração indica a ordem lógica ideal de preenchimento:
 
@@ -24,7 +24,7 @@ Para entender a dinâmica do quadro, veja como os blocos tradicionais são distr
 
 ---
 
-## 💡 Exemplo de Quadro Estruturado (Nosso Caso de Estudo)
+## Exemplo de Quadro Estruturado (Nosso Caso de Estudo)
 
 Para ilustrar o framework na prática, veja como fica o modelo de negócio desenhado para a nossa plataforma de desafios esportivos e socialização:
 
@@ -42,7 +42,7 @@ Para ilustrar o framework na prática, veja como fica o modelo de negócio desen
 
 ---
 
-## 🏋️ Exercício Prático: Estruture o seu Modelo
+## Exercício Prático: Estruture o seu Modelo
 
 Chegou a hora de tirar a sua ideia da cabeça de forma estruturada. Pegue o problema vencedor que você priorizou usando o framework RICE no Módulo 4 e monte o seu próprio quadro.
 
@@ -54,5 +54,5 @@ Ao preencher cada um dos blocos, você deve marcar obrigatoriamente o status de 
 *   **[VALIDADO]:** Para informações que você comprovou em conversas reais com o mercado no Módulo 3.
 *   **[HIPÓTESE]:** Para dados que fazem sentido na sua cabeça, mas que você ainda não testou na rua (como o preço exato que vão pagar ou a métrica exato de custo).
 
-> ⚠️ **Alerta Antiestufamento:** Ao finalizar o preenchimento, releia o quadro inteiro. Se você perceber que preencheu algum bloco com respostas genéricas (ex: colocar *"Canais: Internet"*) apenas para não deixar a célula em branco, apague e investigue mais a fundo. Cada linha do seu canvas precisa ser um plano de ação real.
+> **Alerta Antiestufamento:** Ao finalizar o preenchimento, releia o quadro inteiro. Se você perceber que preencheu algum bloco com respostas genéricas (ex: colocar *"Canais: Internet"*) apenas para não deixar a célula em branco, apague e investigue mais a fundo. Cada linha do seu canvas precisa ser um plano de ação real.
 
