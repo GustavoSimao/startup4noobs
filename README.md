@@ -30,11 +30,15 @@
 
 Ao realizar este curso do começo ao fim, executando os exercícios e dominando os conceitos apresentados, você terá as bases necessárias para finalizar o seu MVP (*Minimum Viable Product*) com um produto sólido, validado e estruturado para o mercado.
 
-Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: sem enrolação, direto ao ponto e focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
+Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: Focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
+<<<<<<< HEAD
 <!-- ROADMAP OF PROJECT -->
 
 ## Roadmap
+=======
+## Módulos
+>>>>>>> ddb068e4ec9094040e878ce37e8f7a17087e3b68
 
 | # | Módulo | Descrição |
 |---|--------|-----------|
