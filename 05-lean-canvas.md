@@ -65,7 +65,7 @@ Crie um arquivo chamado `exercicio-modulo-05.md` no seu repositório.
 
 ## Regras de preenchimento
 
-Ao preencher cada bloco, você deve obrigatoriamente marcar o nível de validação:
+Ao preencher cada bloco, você deve marcar o nível de validação:
 
 - **[VALIDADO]** → baseado em entrevistas reais ou evidências observadas no Módulo 3  
 - **[HIPÓTESE]** → suposição ainda não testada diretamente com o mercado  
