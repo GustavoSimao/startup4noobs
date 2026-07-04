@@ -20,10 +20,10 @@ A sua apresentação deve seguir uma linha narrativa estrita e lógica, dividida
 
 ## Diretrizes de Performance e Postura Profissional
 
-*   **Mantenha a convicção inabalável:** Sustente a firmeza em cada palavra falada. Se você cometer um deslize na ordem dos tópicos ou esquecer alguma frase secundária, a pessoa que está ouvindo não sabe disso. Mantenha a cabeça erguida, preserve a postura profissional e continue a apresentação com naturalidade.
-*   **Transpareça total confiança:** Perguntas complexas surgirão logo após o término da apresentação, e a sua postura diante delas é decisiva. Se você não demonstrar segurança no que construiu, os investidores perderão a confiança no negócio. A segurança do investidor é o reflexo direto da sua própria convicção.
-*   **Nunca termine com "é isso" ou "fim":** Essas expressões destroem o impacto final da sua fala e demonstram amadorismo. Encerre o seu pitch com uma frase de impacto, reforçando o seu propósito, e abra espaço para a banca com um posicionamento firme e profissional, como: "Estamos prontos para blindar esse mercado e escalar essa operação. Obrigado."
-
+*   **Mantenha a convicção:** Sustente a firmeza em cada palavra falada. Se você cometer um deslize na ordem dos tópicos ou esquecer alguma frase secundária, a pessoa que está ouvindo não sabe disso. Mantenha a cabeça erguida, preserve a postura profissional e continue a apresentação com naturalidade.
+*   **Transpareça confiança:** Perguntas complexas surgirão logo após o término da apresentação, e a sua postura diante delas é decisiva. Se você não demonstrar segurança sobre o problema, a solução e as evidências que reuniu, os investidores perderão confiança no negócio. Ao mesmo tempo, seja transparente sobre o que ainda é hipótese, quais riscos existem e o que ainda precisa ser validado. Segurança não significa afirmar que tudo dará certo, mas demonstrar que você entende exatamente em que estágio o negócio está e quais serão os próximos passos.
+*   **Nunca termine com "é isso" ou "fim":** Nunca termine o pitch de forma abrupta. Evite encerrar apenas com expressões como "é isso", "era isso que eu tinha para apresentar" ou "fim". O encerramento é a última oportunidade para reforçar a sua proposta de valor e deixar uma mensagem memorável. Finalize retomando o impacto do negócio, a oportunidade de mercado ou o próximo passo esperado, como: "A próxima grande comunidade esportiva pode começar aqui. Contamos com o apoio de vocês para transformar a forma como as pessoas vivem o esporte. Muito obrigado.".
+*   
 ---
 
 ## Exemplo de Pitch Estruturado (Caso de Estudo)
